@@ -11,7 +11,7 @@ tar zxvf vsts-agent-linux-x64-3.240.1.tar.gz
 
 
 ORG_URL="https://dev.azure.com/Intern-organisation"  # Your organization URL
-PAT="owz244gomhptnpzhu32hhxzfcrkld5lg3o3znj4j4ks4aqfhhkqa"  # Your Personal Access Token
+PAT="w7onhlewywtmbyvymfovgcgoeufmcmjagwroomj2lplw5kfd6cwa"  # Your Personal Access Token
 AGENT_POOL_NAME="AWS-Agent"  # The agent pool you want to add the agent to
 AGENT_NAME=$(hostname)  # Unique name for the agent
 WORK_DIR="_work"
